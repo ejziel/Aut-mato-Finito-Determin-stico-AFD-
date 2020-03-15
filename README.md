@@ -1,0 +1,1 @@
+Autômato Finito Determinístico (AFD)
